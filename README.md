@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# aimeeaidanu's website source code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with React by aimeeaidanu.
 
 ## Available Scripts
 
@@ -39,32 +39,16 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is licensed under the GNU General Public License v3.0.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you use ANY code from the source:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  You must disclose the source code of your modified work and the source code you took from this project. This means you are not allowed to use code from   this project (even partially) in a closed-source and/or obfuscated application.
+  
+  You must state clearly and obviously to all end users that you are using code from this project.
+  
+  Your application must also be licensed under the same license.
+  
+If you have any other questions, contact aimeeaidanu#5970 on discord.
