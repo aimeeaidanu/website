@@ -52,3 +52,5 @@ If you use ANY code from the source:
   Your application must also be licensed under the same license.
   
 If you have any other questions, contact aimeeaidanu#5970 on discord.
+
+## Happy Coding!
